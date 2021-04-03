@@ -1,0 +1,68 @@
+header {
+	height: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#title_t {
+	margin-left: 3%;
+	margin-right: 3%;
+	/*background-color: rgba(255, 255, 255, 0.5);*/
+	background-image: url(img/0UUAog6M.jpg);
+	background-size: 100%;
+	background-position: center;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#title_txt {
+	border-radius: 10px;
+	background-color: rgba(255, 255, 255, 0.8);
+	height: auto;
+	display: inline-block;
+}
+
+.photo {
+	/*margin-left: 30%;
+	margin-right: 30%;*/
+	text-align: center;
+}
+.title_p {
+	font-family: 'Quicksand', sans-serif;
+}
+
+body {
+	background-image: url('https://w-dog.ru/wallpapers/15/15/489265459879855.jpg');
+	background-size: 240%;
+	margin: 0;
+}
+
+#gal {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.time {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 0 5px 5px 0;
+	width: 130px;
+}
+
+/*.title_p {
+	font-size: 20px;
+	background-color: rgba(29, 91, 146, 0.5);
+	border-radius: 0 7px 7px 0;
+	display: inline-block;
+	margin-top: 5px;
+	border: 1px;
+	border-style: dotted;
+	border-left: none;
+}*/
+
+.tit {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 0 5px 5px 0;
+	display: inline-block;
+	border-left: 0;
+}
